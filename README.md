@@ -1,0 +1,2 @@
+# CodeAssistant
+AI coding coach
